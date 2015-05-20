@@ -18,7 +18,7 @@ device_name=ro.product.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.modversion' : Parse the date 20150426 from 'SlimSaber-bacon-5.0.2-20150426'
+# Example with a property key 'ro.modversion' : Parse the date 20150426 from 'CMRemix-trltetmo-5.0.2-20150426'
 #
 # Version source: ro.modversion
 # Version delimiter: -

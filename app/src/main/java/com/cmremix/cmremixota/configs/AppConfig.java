@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.fusionjack.slimota.configs;
+package com.cmremix.cmremixota.configs;
 
 import android.app.AlarmManager;
 import android.content.Context;
@@ -23,8 +23,8 @@ import android.preference.PreferenceManager;
 import android.widget.Toast;
 
 import com.commonsware.cwac.wakeful.WakefulIntentService;
-import com.fusionjack.slimota.R;
-import com.fusionjack.slimota.scheduler.OTAListener;
+import com.cmremix.cmremixota.R;
+import com.cmremix.cmremixota.scheduler.OTAListener;
 
 import java.text.DateFormat;
 import java.util.Date;

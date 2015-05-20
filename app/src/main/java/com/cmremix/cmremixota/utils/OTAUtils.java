@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.fusionjack.slimota.utils;
+package com.cmremix.cmremixota.utils;
 
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.util.Log;
 
-import com.fusionjack.slimota.configs.OTAConfig;
+import com.cmremix.cmremixota.configs.OTAConfig;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -35,7 +35,7 @@ import java.util.Properties;
 
 public final class OTAUtils {
 
-    private static final String TAG = "SlimOTA";
+    private static final String TAG = "CMRemixOTA";
     private static final boolean DEBUG = true;
 
     private static final String BUILD_PROP = "/system/build.prop";

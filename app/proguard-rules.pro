@@ -16,4 +16,4 @@
 #   public *;
 #}
 
--keep class com.fusionjack.slimota.core.OTAListener
+-keep class com.cmremix.cmremixota.core.OTAListener
