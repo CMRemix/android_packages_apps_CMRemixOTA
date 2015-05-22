@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.fusionjack.slimota.xml;
+package com.cmremix.cmremixota.xml;
 
 public class OTALink {
 
