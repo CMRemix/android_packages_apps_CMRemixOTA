@@ -32,7 +32,7 @@ device_name=ro.cmremix.device
 # Version position: 3 (zero based)
 # Version format:
 #
-version_source=ro.modversion
+version_source=cmremix.ota.version
 version_delimiter=-
-version_position=3
-version_format=yyyyMMdd
+version_position=4
+version_format=
