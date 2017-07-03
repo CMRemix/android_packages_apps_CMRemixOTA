@@ -7,8 +7,8 @@
 # * Multiple devices can be added in the xml file
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically 
 #
-ota_url=https://content.wuala.com/contents/zion959/CMRemixOTA/ota_lollipop.xml/?dl=1&key=v0VKiNCl4FRB
-release_type=Stable
+ota_url=https://www.dropbox.com/s/41zc7mjuek0lpyj/ota_nougat.xml?dl=1&pv=1
+release_type=Nightly
 device_name=ro.cmremix.device
 
 #
